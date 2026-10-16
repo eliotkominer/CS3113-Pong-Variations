@@ -1,6 +1,6 @@
 /**
 * Author: Eliot Kominer
-* Assignment: Pong Clone
+* Assignment: Pong Variations
 * Date due: 10/16/2026
 * I pledge that I have completed this assignment without
 * collaborating with anyone else, in conformance with the
